@@ -1,0 +1,11 @@
+{
+    "trajectory": [
+        {"filename": "nanma.colvars.metadynamics1.hills.traj"}
+    ],
+    "grid":
+    [
+        {"lower": -180, "upper": 180, "bins": 180, "periodic": true},
+        {"lower": -180, "upper": 180, "bins": 180, "periodic": true}
+    ],
+    "output": "result"
+}
